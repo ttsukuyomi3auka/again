@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813969857519",
+    "project_id": "step-bcf62",
+    "storage_bucket": "step-bcf62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813969857519:android:a19a872df6df8f6edff41a",
+        "android_client_info": {
+          "package_name": "com.example.again"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHAE0A8J3fFogNlOeotCT2a88nOaagN4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
